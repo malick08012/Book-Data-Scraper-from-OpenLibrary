@@ -2,6 +2,7 @@
 This project demonstrates the complete data science pipeline using book data scraped from Open Library. The goal is to collect, clean, and analyze book metadata to extract meaningful insights using Python.
 
 🛠️ Tools & Libraries Used:
+
 Web Scraping: requests, BeautifulSoup
 
 Data Handling: pandas
